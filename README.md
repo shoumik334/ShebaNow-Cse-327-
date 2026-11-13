@@ -142,18 +142,5 @@ ShebaNow/
 
 ---
 
-## 📑 Project Report
-
-The complete project proposal, including project description, requirements, and system diagrams, is available in the `docs/` folder.
-
----
-
-## 🎓 Academic Information
-
-- **Course:** [Course Name]
-- **Section:** [Section]
-- **Instructor:** [Instructor Name]
-
----
 
 ⭐ **ShebaNow – Making Local Services Easier, Faster, and More Reliable!**
